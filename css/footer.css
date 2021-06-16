@@ -1,0 +1,12 @@
+footer {
+	background: #43a06d;
+	min-height: 50px;
+	position: relative;
+	bottom: 4px;
+}
+
+footer p {
+	font-size: 14px;
+	color: #fff;
+	line-height: 50px;
+}
